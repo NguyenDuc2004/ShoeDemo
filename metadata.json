@@ -1,0 +1,5 @@
+{
+  "name": "ShoeStore Admin Dashboard",
+  "description": "A comprehensive administrative dashboard for a shoe store, featuring inventory management, user tracking, order processing, and an AI-powered assistant.",
+  "requestFramePermissions": []
+}

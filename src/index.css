@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+html, body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Fallback for dark mode if utility classes fail */
+.dark body {
+  background-color: #09090b;
+  color: #f4f4f5;
+}
